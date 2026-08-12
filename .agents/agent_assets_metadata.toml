@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "fhXIsP6DUH6PKhoI2u-Id"
+uri = "file://project-source.zip"
+type = "unspecified"
+title = "Project source code"
+description = "Downloadable ZIP containing the project source code, shared code, configuration files, and package lockfile. Generated dependencies, Git metadata, caches, build output, and environment files are excluded."
